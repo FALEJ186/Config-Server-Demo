@@ -1,1 +1,3 @@
-first.property: "check it out"
+first.property = "check it out"
+frederick.first.name = "no lunch today"
+lunch.time = 12.30
